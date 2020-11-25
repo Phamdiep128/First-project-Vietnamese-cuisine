@@ -1,0 +1,96 @@
+﻿body {font-family:tahoma, sans-serif;
+	box-sizing:boder-box;
+    background-image:url('Vietnamese-street-food.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+}
+
+h1{text-align:center;
+	font-family:"Lucida Sans";
+	font-size: 45px;
+	color:green;
+	font-weight:bold;
+	}
+
+#navi{height: 500px;
+	width:200px;
+	position: fixed;
+	z-index: 1;
+  overflow-x: hidden;
+}
+
+#navi a{
+	color:linen;
+	padding: 16px;
+	text-decoration:none;
+	display:block;
+}
+
+#navi a:hover {
+	background-color:green;
+	
+}
+
+.banhmi{box-sizing:content box;
+	display:block;
+	width:600px;
+	background-color:rgba(255,255,255, 0.8);
+	margin:auto;
+	padding:20px;
+	margin-top:70px;
+	border-radius:35px;
+	overflow:auto;
+	
+	
+}
+img{float:right;
+	width:180px;
+	height:160px;
+	object-fit:cover;
+	
+	
+	}
+
+.phocuon{
+	width:600px;
+	background-color:rgba(255,255,255, 0.8);
+	margin:auto;
+	padding:20px;
+	margin-top:70px;
+	border-radius:35px;
+	overflow:auto;	
+}
+.buncha{
+	width:600px;
+	background-color:rgba(255,255,255, 0.8);
+	margin:auto;
+	padding:20px;
+	margin-top:70px;
+	border-radius:35px;
+	overflow:auto;
+	
+}
+
+.footer{
+	
+  color:linen;
+  padding: 10px;
+  text-align: right;
+
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
